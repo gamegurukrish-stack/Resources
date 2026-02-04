@@ -6,3 +6,5 @@ cloudscraper
 Note ⚠️: Add This Code In Your requirements.text File, Ignore If Already Available.
 Credit @GK-BOTZ
 '''
+motor 
+cloudscraper
